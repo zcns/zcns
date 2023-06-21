@@ -1,3 +1,5 @@
-### Hi there  Welcome To zcns Home! 👋
-:man:About me:<br>
-A student studying Java and Python and on student<br>
+### *Hi there👋*
+I am a C language and Java enthusiast.<br>
+
+### *Site:*
+[Mas](https://mas.to/@zcns) | [BLOG](https://zcns.eu.org)<br>
