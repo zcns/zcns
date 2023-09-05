@@ -8,7 +8,3 @@
 ### statistical data
 
 [![AnHo L's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcns&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/zcns)
-
-### Open Source project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcns&repo=NataChat)](https://github.com/zcns)
